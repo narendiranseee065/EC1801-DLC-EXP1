@@ -5,7 +5,7 @@
 To minimize and implement a Boolean function using logic gates and verify the functionality using Synopsys VCS and DVE.
 ## Software Required
 •	Synopsys VCS
-•	Synopsys DVE
+•	Synopsys DVE 
 •	Linux Terminal
 •	Verilog HDL
 ## Boolean Function
